@@ -1,4 +1,3 @@
-
 import Foundation
 import CoreMotion
 import CoreLocation
