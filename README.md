@@ -1,4 +1,4 @@
-# 🔒 Car Lock Reminder – iOS
+# Car Lock Reminder – iOS
 
 An iOS app that automatically detects when you finish a drive and sends a push notification reminding you to lock your car. No manual input needed — open it once, and it runs in the background.
 
